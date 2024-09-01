@@ -4,7 +4,7 @@ Cata Classic
 Addon function: Fire Mages can press combustion to replicate periodic effects on their target.
 This addon aims to maximize the damage value a player can get from this interaction via the Ignite DoT.
 Ignite deals 40% of non-periodic spell critial hit damage as a 4 second DoT effect that stacks with more applications.
-The addon pulls data from your character sheet and the cobat log in order to simulate the ignite damage if your next spell would crit.
+The addon pulls data from your character sheet and the cobat log in order to simulate ignite DoT damage if your next spell would crit.
 If the ignite damage has a higher current value than the simulated future value, then it shows an icon on the screen to idicate that to the player.
 This addon is my attempt to create a mathematical and procedural way to know when to press combustion. 
 I made this because i like these kind of math problems. Seasoned mages will not find much use from this addon.
