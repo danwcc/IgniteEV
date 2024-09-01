@@ -1,6 +1,9 @@
 # IgniteEV
 World of Warcraft mage addon
 Cata Classic
+
+type /ignite to see commands in-game 
+
 Addon function: Fire Mages can press combustion to replicate periodic effects on their target.
 This addon aims to maximize the damage value a player can get from this interaction via the Ignite DoT.
 Ignite deals 40% of non-periodic spell critial hit damage as a 4 second DoT effect that stacks with more applications.
