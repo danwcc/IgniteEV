@@ -10,7 +10,7 @@ Ignite deals 40% of non-periodic spell critial hit damage as a 4 second DoT effe
 The addon pulls data from your character sheet and the cobat log in order to simulate ignite DoT damage if your next spell would crit.
 If the ignite damage has a higher current value than the simulated future value, then it shows an icon on the screen to idicate that to the player.
 This addon is my attempt to create a mathematical and procedural way to know when to press combustion. 
-I made this because i like these kind of math problems. Seasoned mages will not find much use from this addon.
+I made this because i like these kind of math problems.
 
 I want to stop working on this addon and move on to other things, so feel free to make edits or implement this code into other projects.
 
