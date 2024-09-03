@@ -19,4 +19,6 @@ I want to stop working on this addon and move on to other things, so feel free t
 2. The Pyrobast EV indicator buggs out at the start of fights sometimes. Only first 10 seconds of the pull have i seen any issues
 3. Info Pannel is not adjustable with the /ignite unlock command. I did not see this as a priority.
 
-Cheers!
+- notes/improvements
+- can check damage amps by checking fireball expected value against the actual value of crits. this returns a flat percentage and you can use that to adjust calculations
+- can also hard-code value of damage amps for each fight. this will be more labor intensive but more effective
